@@ -1,0 +1,7 @@
+PAGE CREATED WITH:
+HTML and CSS /grid
+Google Fonts, Font Awesome
+Animate.css
+Bootstrap
+CSS @media Rule
+mobile adaptive
